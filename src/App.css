@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.counterContainer {
+  margin: 10% 20%;
+  padding: 5%;
+  border: 2px dashed black;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.counterContainer Button {
+  color: white;
+}
+
+.count {
+  margin: 10%;
+}
